@@ -1,0 +1,5 @@
+{
+  "version": "2.3.5",
+  "notes": "GitHub version checker in OTA panel",
+  "firmware_url": "https://github.com/mikefromdot/SmallTV-Max/raw/main/Firmware/firmware.bin"
+}
