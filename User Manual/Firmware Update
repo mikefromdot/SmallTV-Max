@@ -1,0 +1,14 @@
+There are two ways to upgrade the firmware of the device
+
+A. OTA Update
+  1. Navigate to your device via your favorite web browser
+  2. Scroll down to *FIRMWARE UPDATE (OTA)* section, this includes an auto update check.
+  3. Click the Install v.X.X.X button
+  4. Profit!
+
+B. Manual Update (In case OTA doesnt work or you want to revert to an older version)
+  1. Navigate to your device via your favorite web browser
+  2. Scroll down to *FIRMWARE UPDATE (OTA)* section.
+  3. Under Manual Firmware Update select Choose File, and select your firmware.bin
+  4. Click Flash Firmware
+  5. Profit!
